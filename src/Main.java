@@ -6,7 +6,7 @@ public class Main {
         double summerCost = 0.00;
         double fallCost = 0.00;
         double totalCost = 0.00;
-
+        System.out.println();
         totalCost = winterCost + springCost + summerCost + fallCost;
         System.out.println ("The winter maintenance cost is " + winterCost);
         System.out.println ("The spring maintenance cost is " + springCost);
